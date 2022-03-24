@@ -1,0 +1,16 @@
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\bin\Debug\net5.0\SurfaceAreaTestInterface.exe
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\bin\Debug\net5.0\SurfaceAreaTestInterface.deps.json
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\bin\Debug\net5.0\SurfaceAreaTestInterface.runtimeconfig.json
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\bin\Debug\net5.0\SurfaceAreaTestInterface.runtimeconfig.dev.json
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\bin\Debug\net5.0\SurfaceAreaTestInterface.dll
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\bin\Debug\net5.0\ref\SurfaceAreaTestInterface.dll
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\bin\Debug\net5.0\SurfaceAreaTestInterface.pdb
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.csproj.AssemblyReference.cache
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.AssemblyInfoInputs.cache
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.AssemblyInfo.cs
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.csproj.CoreCompileInputs.cache
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.dll
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\ref\SurfaceAreaTestInterface.dll
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.pdb
+C:\Users\eszug\source\repos\SurfaceAreaTestInterface\obj\Debug\net5.0\SurfaceAreaTestInterface.genruntimeconfig.cache
