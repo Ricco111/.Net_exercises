@@ -1,0 +1,16 @@
+C:\Users\eszug\source\repos\bubblesort\bin\Debug\net5.0\bubblesort.exe
+C:\Users\eszug\source\repos\bubblesort\bin\Debug\net5.0\bubblesort.deps.json
+C:\Users\eszug\source\repos\bubblesort\bin\Debug\net5.0\bubblesort.runtimeconfig.json
+C:\Users\eszug\source\repos\bubblesort\bin\Debug\net5.0\bubblesort.runtimeconfig.dev.json
+C:\Users\eszug\source\repos\bubblesort\bin\Debug\net5.0\bubblesort.dll
+C:\Users\eszug\source\repos\bubblesort\bin\Debug\net5.0\ref\bubblesort.dll
+C:\Users\eszug\source\repos\bubblesort\bin\Debug\net5.0\bubblesort.pdb
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.csproj.AssemblyReference.cache
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.AssemblyInfoInputs.cache
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.AssemblyInfo.cs
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.dll
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\ref\bubblesort.dll
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.pdb
+C:\Users\eszug\source\repos\bubblesort\obj\Debug\net5.0\bubblesort.genruntimeconfig.cache
