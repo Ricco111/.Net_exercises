@@ -1,0 +1,16 @@
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\bin\Debug\net5.0\OddEvenWithEnum.exe
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\bin\Debug\net5.0\OddEvenWithEnum.deps.json
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\bin\Debug\net5.0\OddEvenWithEnum.runtimeconfig.json
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\bin\Debug\net5.0\OddEvenWithEnum.runtimeconfig.dev.json
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\bin\Debug\net5.0\OddEvenWithEnum.dll
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\bin\Debug\net5.0\ref\OddEvenWithEnum.dll
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\bin\Debug\net5.0\OddEvenWithEnum.pdb
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.csproj.AssemblyReference.cache
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.AssemblyInfoInputs.cache
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.AssemblyInfo.cs
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.csproj.CoreCompileInputs.cache
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.dll
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\ref\OddEvenWithEnum.dll
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.pdb
+C:\Users\eszug\Desktop\.Net_exercises\OddEvenWithEnum\obj\Debug\net5.0\OddEvenWithEnum.genruntimeconfig.cache
