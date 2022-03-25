@@ -1,0 +1,16 @@
+C:\Users\eszug\source\repos\Save To File\Save To File\bin\Debug\net5.0\Save To File.exe
+C:\Users\eszug\source\repos\Save To File\Save To File\bin\Debug\net5.0\Save To File.deps.json
+C:\Users\eszug\source\repos\Save To File\Save To File\bin\Debug\net5.0\Save To File.runtimeconfig.json
+C:\Users\eszug\source\repos\Save To File\Save To File\bin\Debug\net5.0\Save To File.runtimeconfig.dev.json
+C:\Users\eszug\source\repos\Save To File\Save To File\bin\Debug\net5.0\Save To File.dll
+C:\Users\eszug\source\repos\Save To File\Save To File\bin\Debug\net5.0\ref\Save To File.dll
+C:\Users\eszug\source\repos\Save To File\Save To File\bin\Debug\net5.0\Save To File.pdb
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.csproj.AssemblyReference.cache
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.AssemblyInfoInputs.cache
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.AssemblyInfo.cs
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.csproj.CoreCompileInputs.cache
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.dll
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\ref\Save To File.dll
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.pdb
+C:\Users\eszug\source\repos\Save To File\Save To File\obj\Debug\net5.0\Save To File.genruntimeconfig.cache
